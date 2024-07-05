@@ -15,4 +15,7 @@ We believe that the true power of cryptocurrencies lies in their ability to demo
 At FinTechCryptoTeam, collaboration is key. We work closely with our clients to understand their unique needs and tailor our software accordingly. Our support doesn't end with deployment; we provide ongoing assistance to ensure our clients can fully leverage the potential of their crypto solutions.
 
 ## Join Us on the Journey 🌟
-Whether you're looking to develop a new crypto platform, enhance an existing system, or simply explore the possibilities of blockchain technology, FinTechCryptoTeam is your trusted partner. Let's build the future of finance together.
+
+- 🐦 [Our Twitter](https://x.com/FinTechDev9)
+- 💌 [Email Us](mailto:danlamishafiu9@gmail.com)
+- 📞 [Our discord](https://discord.gg/GfUNQCeZ)
