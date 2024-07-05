@@ -18,4 +18,4 @@ At FinTechCryptoTeam, collaboration is key. We work closely with our clients to 
 
 - 🐦 [Our Twitter](https://x.com/FinTechDev9)
 - 💌 [Email Us](mailto:danlamishafiu9@gmail.com)
-- 📞 [Our discord](https://discord.gg/GfUNQCeZ)
+- 📞 [Our discord](https://discord.gg/aeYpSGf)
